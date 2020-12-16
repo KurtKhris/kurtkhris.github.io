@@ -18,7 +18,7 @@ function send_email_birthday( $email,$subject,$message,$receipientName,$post,$cc
 	<meta name="format-detection" content="date=no" />
 	<meta name="format-detection" content="address=no" />
 	<meta name="format-detection" content="telephone=no" />
-	<title>Email Template</title>
+	
 	
 
 	<style type="text/css" media="screen">
@@ -69,7 +69,7 @@ function send_email_birthday( $email,$subject,$message,$receipientName,$post,$cc
 	</style>
 </head>
 <body class="body" style="padding:0 !important; margin:0 !important; display:block !important; background:#ffffff; -webkit-text-size-adjust:none">
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
 		<tr>
 			<td align="center" valign="top">
 				
